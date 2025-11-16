@@ -58,7 +58,7 @@ Urban mobility solution with real-time tracking
 - **Tech:** Flutter, Firebase, Google Maps API
 - **Features:** Live location tracking, Real-time booking, User authentication
 
-### 🌍 [REST Countries Explorer](https://github.com/AysarSalameh/countries-explorer)
+### 🌍 [REST Countries Explorer](https://github.com/AysarSalameh/country)
 
 Flutter app displaying country information using REST API
 
